@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋<br><br>
+I start lerning coding in HTML5, Css3 and JavaScript. I am using for that Visual Studo. <br>
+<h3>Connect with me</h3>
+
 
 <!--
 **Biskup85/Biskup85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
