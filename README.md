@@ -1,6 +1,6 @@
 ### Hi there 👋<br><br>
 I start lerning coding in HTML5, Css3 and JavaScript. I am using for that Visual Studo. <br>
-<h3>Connect with me</h3>
+
 
 
 <!--
