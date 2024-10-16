@@ -1,5 +1,5 @@
 ### Hi there 👋<br><br>
-I start lerning coding in HTML5, Css3 and JavaScript. I am using for that Visual Studo. <br>
+I am a person who is positive, highly motivated, and hardworking. I am always aspiring to achieve the highest level of high standard in any given task. I am quickly adapts to any situation and I am used to working under pressure as a team member. I have worked in a variety of environments. At the moment, my focus is on improving my skills and knowledge. <br>
 
 
 
